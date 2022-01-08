@@ -1,2 +1,5 @@
-remote_theme: pages-themes/dinky@v0.2.0
-title: Julian Rosen
+title: Leap Day theme
+description: Leap Day is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-leap-day
