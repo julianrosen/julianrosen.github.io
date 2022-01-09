@@ -3,7 +3,8 @@ layout: leap_day
 ---
 # About
 
-I am a mathematician doing research in number theory and arithmetic algebraic geometry. I am also interested in many aspects of computing.
+I am a mathematician. My research is in number theory and arithmetic algebraic geometry, and I am particularly interested in motives
+and motivic Galois theory. I am also interested in machine learning.
 
 ---
 # Contact information

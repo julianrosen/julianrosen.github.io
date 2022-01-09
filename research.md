@@ -43,13 +43,9 @@ American Mathematical Monthly (2012), [doi:10.4169/amer.math.monthly.119.02.151]
 
  - [*Universal mixing of quantum walks on graphs*](pdf/Carlson_et_al._2007_Universal_Mixing_of_Quantum_Walk_on_Graphs.pdf)  
 with W. Carlson, A. Ford, E. Harris, C. Tamon, K. Wrobel  
-Quantum Information and Computation (2007), [doi:10.26421/QIC7.8-4
+Quantum Information and Computation (2007), [doi:10.26421/QIC7.8-4](https://doi.org/10.26421/QIC7.8-4)
 
-###](https://doi.org/10.26421/QIC7.8-4
-
-###)
-
- Preprints
+### Preprints
 
  - [*The moduli space of G-algebras*](https://arxiv.org/abs/2011.07716)  
 with Andrew O'Desky, submitted for publication
