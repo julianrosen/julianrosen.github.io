@@ -1,0 +1,243 @@
+// complementary colors:
+//     orange: #FAB265 
+//     blue: #65ADFA 
+
+html {
+    height: 100%;
+    //background-color: #000000;
+    background-image: linear-gradient(to bottom right,#FAB265, #65ADFA );
+}
+
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    font-size: 17px; 
+    position:relative;
+    top:10em;
+    background-color: #EEEEFF;
+}
+
+footer {
+	font-size: .8em;
+	//color: #94907f;
+	text-align: center;
+	margin: 0px;
+	margin-top: 40px;
+    width: 100%;
+}
+
+
+.parent {
+    position:relative;
+}
+
+.container {
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding:80px;
+    width:1200px;
+    height:270px;
+    margin:auto; 
+    border: #EEEEEE; 
+    border-width: thin;
+}
+
+.section {
+    padding:13px;
+}
+
+.about {
+    width: 70%;
+    float: right;
+}
+
+.photo {
+    width: 30%;
+    float: left;
+}
+
+
+.icon {
+    display:inline-block;
+    height: 100%;
+    width: 50px;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.centered-element {
+    display: inline-flex;
+    height: 100%;
+    width: 40%;
+    vertical-align: middle;
+    align-items: center;
+}
+
+.collapsible {
+    padding: 7px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.active, .collapsible:hover {
+    color: #FAB265;
+  //background-color: #f7f7f7;
+  //background-color: #F5FCFE;
+} 
+
+.content {
+  padding: 0 18px;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+td {
+    height: 45px; 
+    width: 95px; 
+    vertical-align: middle;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 { 
+    //color:#fcb900;
+    //font-family: "Alegreya"; 
+    font-size: 34px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 450; 
+    line-height: 50px; 
+} 
+
+h2 { 
+    //color:#fcb900;
+    //font-family: "Alegreya"; 
+    font-size: 28px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 26.4px; 
+} 
+
+h3 { 
+    //font-family: "Alegreya"; 
+    font-size: 14px; 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 700; 
+    line-height: 15.4px; 
+} 
+
+p { 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 570; 
+    line-height: 1.8; 
+    width: 750px;
+} 
+
+ol { 
+    font-style: normal; 
+    font-variant: normal; 
+    font-weight: 400; 
+    line-height: 2; 
+    width:800px;
+} 
+
+li {
+    padding: 8px; 
+}
+
+papertitle {
+    font-size: 20px;
+    font-weight: 550;
+}
+
+a { 
+    font-style: normal; 
+    font-variant: normal; 
+    //font-weight: 400; 
+    color:#13b6ec;
+} 
+
+a:visited {
+    color:#EC4913;
+}
+
+#introduction {
+  margin: 0 auto;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+}
+
+.nav ul li {
+    float: left;
+}
+
+.nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.nav ul li a:hover {
+    color: #FAB265;
+}
+
+
+/* Header */
+
+#header {
+        background-image: linear-gradient(#65ADFA, #EEEEEE);
+		//background-color: rgba(101, 173, 250, 0.85);
+		height: 3.5em;
+		left: 0;
+		padding: 0 1.25em;
+		position: fixed;
+		top: 0;
+		width: 100%;
+		z-index: 10000;
+	}
+
+		#header h1 {
+			border-bottom: 0;
+			font-size: 0.8em;
+			margin-bottom: 0;
+			opacity: 1;
+			visibility: visible;
+		}
+
+			#header h1 a {
+				border: 0;
+			}
+
+		#header nav {
+			//font-family: Raleway, Helvetica, sans-serif;
+			font-size: 1em;
+			font-weight: 1000;
+			letter-spacing: 0.1em;
+			position: absolute;
+			text-transform: uppercase;
+			top: 0.6em;
+		}
+
+			#header nav a {
+				border: 0;
+				display: inline-block;
+				padding: 0 1em;
+			}
+
+            #header nav a:before {
+                float: right;
+                margin-left: 0.75em;
+            }
+
+
