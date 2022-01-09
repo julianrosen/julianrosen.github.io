@@ -285,10 +285,11 @@ header {
 }
 
 section {
-  width:590px;
-  padding: 30px 30px 50px 30px;
-  margin: 20px 0;
-  margin-top: 190px;
+  width:520px;
+  padding: 40px 40px 60px 40px;
+  margin: 50px 0;
+  margin-top: 220px;
+  margin-left: 10px;
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
@@ -306,8 +307,8 @@ nav {
   top: 220px;
   left:50%;
   margin-left:-580px;
-  text-align: right;
-
+  text-align: left;
+  
   ul {
     list-style: none;
     list-style-image:none;
