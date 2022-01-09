@@ -1,6 +1,8 @@
 /*
-Leap Day for GitHub Pages
-by Matt Graham
+Style for Julian Rosen's webpage
+
+Adapted by Julian Rosen from Leap Day for GitHub Pages by Matt Graham
+With some features by Andy Odesky
 */
 
 @import "normalize";
@@ -162,7 +164,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 40px 20px;
+  padding: 10px 10px 10px 10px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -170,12 +172,14 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-  background: url(../images/background.png) #4276b6;
+//  background: url(../images/background.png) #4276b6;
+  background-image:linear-gradient(#225696, #72a6e6);
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 46px; // JR: was 76px
-
+  min-height: 6px; // JR: was 76px
+  color: #f3f3f3;
+  
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
@@ -188,6 +192,19 @@ header {
     -ms-text-overflow: ellipsis;
   }
 
+  a{
+    color: #f3f3f3;
+    font-size: 16pt;
+    }
+
+  a:hover {
+    color: #FAB265
+    }
+    
+  a:active {
+    color: #FAB265
+    }
+    
   p {
     color: #d8d8d8;
     text-shadow:rgba(#000, 0.2) 0 1px 0;
@@ -300,6 +317,7 @@ section { // JR: changed this
 small {
   font-size:12px;
 }
+
 
 nav { // JR: changed this
   width: 230px;
