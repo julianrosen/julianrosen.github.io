@@ -42,7 +42,7 @@ International Journal of Number Theory (2013)
 
  - [*Chebyshev mappings of finite fields*](pdf/Rosen_et_al._2012_Chebyshev_Mappings_of_Finite_Fields.pdf)  
 with Z. Scherr, B. Weiss, M. Zieve  
-American Mathematical Monthly (2012)
+American Mathematical Monthly (2012), doi:10.4169/amer.math.monthly.119.02.151
 
  - [*Universal mixing of quantum walks on graphs*](pdf/Carlson_et_al._2007_Universal_Mixing_of_Quantum_Walk_on_Graphs.pdf)  
 with W. Carlson, A. Ford, E. Harris, C. Tamon, K. Wrobel  

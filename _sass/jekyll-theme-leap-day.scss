@@ -174,7 +174,7 @@ header {
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 76px;
+  min-height: 46px; // JR: was 76px
 
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -284,11 +284,11 @@ header {
   }
 }
 
-section {
+section { // JR: changed this
   width:520px;
   padding: 40px 40px 60px 40px;
   margin: 50px 0;
-  margin-top: 160px;
+  margin-top: 140px;
   margin-left: 10px;
   position:relative;
   background: #fbfbfb;
@@ -301,13 +301,15 @@ small {
   font-size:12px;
 }
 
-nav {
+nav { // JR: changed this
   width: 230px;
   position: fixed;
-  top: 160px;
+  top: 140px;
   left:50%;
   margin-left:-580px;
   text-align: left;
+  font-size: 18px; // JR: added
+  line-height:25px; // JR: was 24px
   
   ul {
     list-style: none;
