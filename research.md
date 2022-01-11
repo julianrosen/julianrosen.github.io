@@ -3,6 +3,11 @@ layout: leap_day
 ---
 # Research
 
+<!---
+Blurb: arithmetic geometry is about the interplay between shapes and numbers. Family of numerical identities, look for a geometric reason.
+--->
+
+
 ---
 ### Publications
 
@@ -45,6 +50,7 @@ American Mathematical Monthly (2012), [doi:10.4169/amer.math.monthly.119.02.151]
 with W. Carlson, A. Ford, E. Harris, C. Tamon, K. Wrobel  
 Quantum Information and Computation (2007), [doi:10.26421/QIC7.8-4](https://doi.org/10.26421/QIC7.8-4)
 
+---
 ### Preprints
 
  - [*The moduli space of G-algebras*](https://arxiv.org/abs/2011.07716)  
