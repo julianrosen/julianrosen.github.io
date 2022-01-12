@@ -63,6 +63,6 @@ available at <a href="https://github.com/julianrosen/recurrence" target="_blank"
 Mudpi is a browser-based multiplayer online text adventure game that I put together during the pandemic in order to
 keep in touch with some friends I could no longer visit with. Mudpi was originally served from a Raspberry Pi in
 my home (whence the name), but now resides on a virtual private server. The game can be accessed 
-at <a href="https://muttmutt.net/mudpi" target="_blank">https://muttmutt.net/mudpi</a>, and the source code can be found at
+at <a href="https://julianrosen.net/mudpi" target="_blank">https://julianrosen.net/mudpi</a>, and the source code can be found at
 <a href="https://github.com/julianrosen/mudpi" target="_blank">https://github.com/julianrosen/mudpi</a>.
 
