@@ -2,3 +2,86 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
+
+header {
+  padding: 10px 10px 10px 10px;
+  margin: 0;
+  position: fixed;
+  top: 0;
+  left:0;
+  right:0;
+  width: 100%;
+  text-align: center;
+//  background: url(../images/background.png) #4276b6;
+  background-image:linear-gradient(#124696, #72a6e6);
+  box-shadow: 1px 0px 2px rgba(0,0,0,.75);
+  z-index:99;
+  -webkit-font-smoothing:antialiased;
+  min-height: 6px; // JR: was 76px
+  color: #f3f3f3;
+  
+  h1 {
+    font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #f3f3f3;
+    text-shadow: 0px 2px 0px #235796;
+    margin: 0px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    -o-text-overflow: ellipsis;
+    -ms-text-overflow: ellipsis;
+  }
+
+  a{
+    color: #f3f3f3;
+    font-size: 16pt;
+    }
+
+  a:hover {
+    color: #FAB265
+    }
+    
+  a:active {
+    color: #FAB265
+    }
+    
+  p {
+    color: #d8d8d8;
+    text-shadow:rgba(#000, 0.2) 0 1px 0;
+    font-size: 18px;
+    margin: 0px;
+  }
+}
+
+
+
+
+section { // JR: changed this
+  width:520px;
+  padding: 40px 40px 60px 40px;
+  margin: 50px 0;
+  margin-top: 140px;
+  margin-left: 10px;
+  position:relative;
+  background: #fbfbfb;
+  border-radius: 3px;
+  border: 1px solid #cbcbcb;
+  box-shadow: 0px 1px 2px rgba(0,0,0,.09), inset 0px 0px 2px 2px rgba(255,255,255,.5), inset 0 0 5px 5px rgba(255,255,255,.4);
+}
+
+small {
+  font-size:12px;
+}
+
+
+nav { // JR: changed this
+  width: 230px;
+  position: fixed;
+  top: 140px;
+  left:50%;
+  margin-left:-580px;
+  text-align: left;
+  font-size: 18px; // JR: added
+  line-height:25px; // JR: was 24px
+  }
