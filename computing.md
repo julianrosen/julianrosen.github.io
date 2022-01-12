@@ -1,6 +1,7 @@
 ---
 layout: default
 usemathjax: true
+title: Computing
 ---
 
 # Computing
