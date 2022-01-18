@@ -1,5 +1,5 @@
 ---
-layout: leap_day
+layout: default
 ---
 # About
 

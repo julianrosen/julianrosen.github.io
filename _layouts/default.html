@@ -4,7 +4,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+
+{% if page.title %}
+<title>{{site.title}} - {{page.title}}</title>
+{% else %}
+<title> {{site.title}}</title>
+{% endif %}
+
 {% seo %}
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
@@ -14,11 +22,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
     {% include head-custom.html %}
+
   </head>
   <body>
 
       <header>
-        <h1>Julian Rosen</h1><br>
+        <h1>{{ site.title }}</h1><br>
         <!-- <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p> -->
                     &nbsp;&nbsp;<a href="./index.html">About</a>&nbsp;&nbsp;&#9679;&nbsp;
                     <a href="./research.html">Research</a>&nbsp;&nbsp;&#9679;&nbsp;

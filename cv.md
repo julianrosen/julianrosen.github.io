@@ -1,5 +1,6 @@
 ---
-layout: leap_day
+layout: default
+title: CV
 ---
 
 # CV

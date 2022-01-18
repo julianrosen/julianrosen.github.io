@@ -1,8 +1,6 @@
 /*
-Style for Julian Rosen's webpage
-
-Adapted by Julian Rosen from Leap Day for GitHub Pages by Matt Graham
-With some features by Andy Odesky
+Leap Day for GitHub Pages
+by Matt Graham
 */
 
 @import "normalize";
@@ -164,7 +162,7 @@ dt {
 }
 
 header {
-  padding: 10px 10px 10px 10px;
+  padding: 25px 20px 40px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -172,14 +170,12 @@ header {
   right:0;
   width: 100%;
   text-align: center;
-//  background: url(../images/background.png) #4276b6;
-  background-image:linear-gradient(#124696, #72a6e6);
+  background: url(../images/background.png) #4276b6;
   box-shadow: 1px 0px 2px rgba(0,0,0,.75);
   z-index:99;
   -webkit-font-smoothing:antialiased;
-  min-height: 6px; // JR: was 76px
-  color: #f3f3f3;
-  
+  min-height: 76px;
+
   h1 {
     font: 40px/48px 'Copse', "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #f3f3f3;
@@ -192,19 +188,6 @@ header {
     -ms-text-overflow: ellipsis;
   }
 
-  a{
-    color: #f3f3f3;
-    font-size: 16pt;
-    }
-
-  a:hover {
-    color: #FAB265
-    }
-    
-  a:active {
-    color: #FAB265
-    }
-    
   p {
     color: #d8d8d8;
     text-shadow:rgba(#000, 0.2) 0 1px 0;
@@ -301,12 +284,11 @@ header {
   }
 }
 
-section { // JR: changed this
-  width:520px;
-  padding: 40px 40px 60px 40px;
-  margin: 50px 0;
-  margin-top: 140px;
-  margin-left: 10px;
+section {
+  width:590px;
+  padding: 30px 30px 50px 30px;
+  margin: 20px 0;
+  margin-top: 190px;
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
@@ -318,17 +300,14 @@ small {
   font-size:12px;
 }
 
-
-nav { // JR: changed this
+nav {
   width: 230px;
   position: fixed;
-  top: 140px;
+  top: 220px;
   left:50%;
   margin-left:-580px;
-  text-align: left;
-  font-size: 18px; // JR: added
-  line-height:25px; // JR: was 24px
-  
+  text-align: right;
+
   ul {
     list-style: none;
     list-style-image:none;
