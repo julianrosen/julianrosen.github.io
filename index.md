@@ -3,8 +3,8 @@ layout: default
 ---
 # About
 
-I am a mathematician. My research is in number theory and arithmetic algebraic geometry, and I am particularly interested in motives
-and motivic Galois theory. I am also interested in machine learning.
+I am a mathematician. I do pure math research in number theory and arithmetic algebraic geometry, and I am particularly interested in motives
+and motivic Galois theory. I am also interested in machine learning and data science.
 
 ---
 # Contact information
