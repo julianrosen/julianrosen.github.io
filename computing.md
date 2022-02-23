@@ -7,7 +7,7 @@ title: Computing
 # Computing
 
 
-Here you can find some of my computing projects.
+Here you can find some of my Computing projects.
 
 
 
