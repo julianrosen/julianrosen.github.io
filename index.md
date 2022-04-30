@@ -4,7 +4,7 @@ layout: default
 # About
 
 I am a mathematician. I do pure math research in number theory and arithmetic algebraic geometry, and I am particularly interested in motives
-and motivic Galois theory. I am also interested in machine learning and data science.
+and motivic Galois theory. I am also interested in machine learning and data science, and I work as a Research Scientist on the machine learning team at Upstart.
 
 ---
 # Contact information

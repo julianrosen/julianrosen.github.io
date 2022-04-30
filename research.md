@@ -57,8 +57,8 @@ Quantum Information and Computation (2007), [doi:10.26421/QIC7.8-4](https://doi.
  - [*The moduli space of G-algebras*](https://arxiv.org/abs/2011.07716)  
 with Andrew O'Desky, submitted for publication
 
- - [*Sequential periods of the crystalline Frobenius*](https://arxiv.org/abs/1805.01885)
+[//]: # - [*Sequential periods of the crystalline Frobenius*](https://arxiv.org/abs/1805.01885)
 
- - [*The MHS algebra and supercongruences*](https://arxiv.org/abs/1608.06864)
+[//]: # - [*The MHS algebra and supercongruences*](https://arxiv.org/abs/1608.06864)
 
- - [*A choice-free absolute Galois group and Artin motives*](https://arxiv.org/abs/1706.06573)
+[//]: # - [*A choice-free absolute Galois group and Artin motives*](https://arxiv.org/abs/1706.06573)
