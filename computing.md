@@ -15,8 +15,7 @@ Here you can find some of my computing projects.
 
 Lara Du, Kai Wei and I built a machine learning tool to predict the number of hospital beds that
 will be needed for COVID-19 patients in each state, up to 14 days in the future. Our prediction tool
-comes with an API and a website, and comes in a docker container for easy deployment. The website for our
-project is <a href="https://covidforecast.net" target="_blank">https://covidforecast.net</a>, and the GitHub repository with our code is at
+comes with an API and a website, and comes in a docker container for easy deployment. You can view the model's predictions <a href="https://julianrosen.net/covid" target="_blank">here</a>, and the GitHub repository with our code is at
 <a href="https://github.com/czkaiweb/ErdosProject-COVID" target="_blank">https://github.com/czkaiweb/ErdosProject-COVID</a>.
 
 ---
