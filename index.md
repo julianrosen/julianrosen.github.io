@@ -3,9 +3,9 @@ layout: default
 ---
 # About
 
-I am a mathematician turned data scientist. I work as a senior research scientist on the machine learning team at [Upstart](https://www.upstart.com/).
+Mathematician turned data scientist. I am employed as a senior research scientist on the machine learning team at [Upstart](https://www.upstart.com/), where I work on predictive models in the consumer lending space.
 
-In my previous life I was an academic, doing research in pure math (which I still continue to a limited extent). My research is mainly in number theory and arithmetic algebraic geometry, though I like to think about lots of other kinds of math as well. I am particularly interested in motives and motivic Galois theory.
+In a previous life I was an academic, doing research in pure math (which I still continue to an extent). My research is mainly in number theory and arithmetic algebraic geometry, though I also enjoy thinking about other kinds of math. I am particularly interested in motives and motivic Galois theory.
 
 ---
 # Contact information
@@ -15,4 +15,4 @@ LinkedIn: <a href="https://linkedin.com/in/julian-rosen" target="_blank">https:/
 GitHub: <a href="https://github.com/julianrosen" target="_blank">https://github.com/julianrosen</a>  
 [PGP public key](public_key.html)
 <br><br>
-<font size="-1">Updated 2024-6-19</font>
+<font size="-1">Updated 2024-12-28</font>

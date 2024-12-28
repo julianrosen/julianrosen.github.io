@@ -4,17 +4,19 @@ title: Research
 ---
 # Research
 
-<!---
-Blurb: arithmetic geometry is about the interplay between shapes and numbers. Family of numerical identities, look for a geometric reason.
---->
-
-
 ---
 ### Publications
 
+ - [*The ring of finite algebraic numbers and its application to the law of decomposition of primes*](pdf/Rosen_et_al._2024_The_ring_of_finite_algebraic_numbers_and_its_application_to_the_law_of_decomposition_of_primes.pdf)    
+with Y. Takeyama, K. Tasaka, and S. Yamamoto  
+Journal of Number Theory (2024), [doi:10.1016/j.jnt.2024.04.003](https://doi.org/10.1016/j.jnt.2024.04.003)
+
+ - *The moduli space of G-algebras*  
+with A. O'Desky  
+Advances in Mathematics (2023), Vol. 431, 109240 [doi:10.1016/j.aim.2023.109240](https://doi.org/10.1016/j.aim.2023.109240)
 
  - *How to tee a hyperplane*  
-American Mathematical Monthly (accepted for publication)
+The American Mathematical Monthly, 129:8, 781-784, [doi:10.1080/00029890.2022.2097506](https://doi.org/10.1080/00029890.2022.2097506)
 
  - [*The sequence of prime coefficients of an algebraic power series*](pdf/Rosen_The_sequence_of_prime_coefficients_of_an_algebraic.pdf)  
 [RIMS Kôkyûroku (2020)](http://hdl.handle.net/2433/261382)
@@ -50,15 +52,3 @@ American Mathematical Monthly (2012), [doi:10.4169/amer.math.monthly.119.02.151]
  - [*Universal mixing of quantum walks on graphs*](pdf/Carlson_et_al._2007_Universal_Mixing_of_Quantum_Walk_on_Graphs.pdf)  
 with W. Carlson, A. Ford, E. Harris, C. Tamon, K. Wrobel  
 Quantum Information and Computation (2007), [doi:10.26421/QIC7.8-4](https://doi.org/10.26421/QIC7.8-4)
-
----
-### Preprints
-
- - [*The moduli space of G-algebras*](https://arxiv.org/abs/2011.07716)  
-with Andrew O'Desky, submitted for publication
-
-[//]: # - [*Sequential periods of the crystalline Frobenius*](https://arxiv.org/abs/1805.01885)
-
-[//]: # - [*The MHS algebra and supercongruences*](https://arxiv.org/abs/1608.06864)
-
-[//]: # - [*A choice-free absolute Galois group and Artin motives*](https://arxiv.org/abs/1706.06573)
