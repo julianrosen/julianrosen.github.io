@@ -43,7 +43,7 @@ Research in Number Theory Theory (2017), [doi:10.1007/s40993-017-0073-y](https:/
 Journal of the London Mathematical Society (2015), [doi:10.1112/jlms/jdu084](https://doi.org/10.1112/jlms/jdu084)
 
  - [*Multiple harmonic sums and Wolstenholme's Theorem*](pdf/Rosen_2013_Multiple_harmonic_sums_and_Wolstenholmes_theorem.pdf)  
-International Journal of Number Theory (2013)
+International Journal of Number Theory (2013), [doi:10.1142/S1793042113500735](https://doi.org/10.1142/S1793042113500735)
 
  - [*Chebyshev mappings of finite fields*](pdf/Rosen_et_al._2012_Chebyshev_Mappings_of_Finite_Fields.pdf)  
 with Z. Scherr, B. Weiss, M. Zieve  
