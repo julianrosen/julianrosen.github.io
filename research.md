@@ -11,11 +11,11 @@ title: Research
 with Y. Takeyama, K. Tasaka, and S. Yamamoto  
 Journal of Number Theory (2024), [doi:10.1016/j.jnt.2024.04.003](https://doi.org/10.1016/j.jnt.2024.04.003)
 
- - *The moduli space of G-algebras*  
+ - [*The moduli space of G-algebras*](pdf/ODesky,_Rosen_2023_The_moduli_space_of_G_algebras.pdf)  
 with A. O'Desky  
 Advances in Mathematics (2023), Vol. 431, 109240 [doi:10.1016/j.aim.2023.109240](https://doi.org/10.1016/j.aim.2023.109240)
 
- - *How to tee a hyperplane*  
+ - [*How to tee a hyperplane*](pdf/Rosen_2022_How_to_Tee_a_Hyperplane.pdf)  
 The American Mathematical Monthly, 129:8, 781-784, [doi:10.1080/00029890.2022.2097506](https://doi.org/10.1080/00029890.2022.2097506)
 
  - [*The sequence of prime coefficients of an algebraic power series*](pdf/Rosen_The_sequence_of_prime_coefficients_of_an_algebraic.pdf)  
